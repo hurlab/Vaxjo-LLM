@@ -253,16 +253,13 @@ Unless otherwise noted, code in this repository is released for **academic and r
 **Corresponding authors:**
 
 - **Junguk Hur, Ph.D.** — University of North Dakota
-  [jung.hur@und.edu](mailto:jung.hur@und.edu)
 - **Yongqun "Oliver" He, Ph.D.** — University of Michigan
-  [yongqunh@med.umich.edu](mailto:yongqunh@med.umich.edu)
 
 **Lead developer (Vaxjo-LLM pipeline):**
 
 - **Hasin Rehana** — Ph.D. Student, University of North Dakota
-  [hasin.rehana@und.edu](mailto:hasin.rehana@und.edu)
   GitHub: [hasin-ruet13](https://github.com/hasin-ruet13)
 
 ---
 
-*For questions, bug reports, or collaboration inquiries, please open an issue on GitHub or reach out to the corresponding authors.*
+*For questions, bug reports, or collaboration inquiries, please open an issue on GitHub or reach out to the corresponding authors through their institutional directories.*
